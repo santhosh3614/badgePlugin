@@ -1,5 +1,7 @@
 {
   "name": "badgePlugin",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular"
 }
